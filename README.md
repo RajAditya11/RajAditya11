@@ -4,28 +4,36 @@
 
 ### 🎯 Current Focus
 - Building strong fundamentals for FAANG interviews
-- 600+ LeetCode problems solved
+- Solving 600+ LeetCode problems with pattern problem recognition
 - Mastering System Design & OOP
-
+- Backend Engineer
+- Devops and Cloud Infrastructure
+- AI and automation
+  
 ### 📊 Stats
-- LeetCode: 650+ problems (Knights: Achieved through learning)
+- LeetCode: 250+ problems
 - GitHub: Daily commits | 3+ deployed projects
-- Competitive Programming: 2 contests/week
+- Competitive Programming: 1-2 contests/week
 
 ### 🛠 Tech Stack
 **Languages:** C++, Python, JavaScript, Java
 **Backend:** Node.js, Express, MongoDB, PostgreSQL
-**Frontend:** React, HTML/CSS
-**Tools:** Git, VS Code, Linux, Docker
+**Frontend:** React, HTML/CSS , TailwindCSS
+**Tools:** Git, VS Code, Linux, Docker ,Claude Code
 
 ### 🚀 Featured Projects
-1. [Project Name] - Full-stack app with X users
-2. [LLD Implementations] - Design patterns in action
-3. [Competitive Programming] - Algorithm optimizations
+1. Compiler - Online IDE using docker for unified environment to run code on any operating systm.
+2. Competitive Programming - Learning Algorithm using C++.
 
 ### 📚 What I'm Learning
-- Advanced System Design (HLD patterns)
+- Backend Engineering
+- Advanced System Design
+- Cloud Infrastructure
 - Backend optimization & scaling
+- AI and automation
 - Mock interviewing
 
-[LinkedIn] [LeetCode] [Email]
+
+{ LinkedIn : https://www.linkedin.com/in/raj-aditya-662aa3238/ }
+{ Leetcode : https://leetcode.com/u/rajadi7185/ }  
+{ rajadi7185@gmail.com , rajadi0611@gmail.com }
