@@ -41,12 +41,26 @@ Status    : Open to Opportunities 🚀
 <img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 
+<a href="https://rajaditya11.github.io/SinglePagePortfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
 <a href="https://leetcode.com/u/rajadi7185/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://rajaditya11.github.io/SinglePagePortfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/rajadi7185">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/@rajadi7185/">
+  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/rajaditya06">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </p>
