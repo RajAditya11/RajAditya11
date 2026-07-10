@@ -1,88 +1,76 @@
-<name align="center > 
+<h1 >⚡ Software Engineer </h1>
 
+<div align="center">
+
+```text
 ██████╗  █████╗      ██╗     █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗
 ██╔══██╗██╔══██╗     ██║    ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
 ██████╔╝███████║     ██║    ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
 ██╔══██╗██╔══██║██   ██║    ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
 ██║  ██║██║  ██║╚█████╔╝    ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝     ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+```
+</div>
 
-<name>
+<pre>
+
+$ whoami
+
+Name      : Raj Aditya
+Role      : Backend Devops Engineer
+Focus     : Java • Spring Boot • React • mySQL 
+Learning  : Spring Boot • Cloud & Devops • AWS
+Current   : FoodRush 
+Status    : Open to Opportunities 🚀
+
+</pre>
+
+<h1>⚡ Tech Stack</h1>
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,python" />
+
+
+Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" />
+
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+
+
+Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker" />
+
+
+Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=RajAditya11&theme=github-dark&hide_border=true" />
+</p>
+
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+Developer;Java+Enthusiast;Learning+System+Design;Building+FoodRush" />
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Raj Aditya</h1>
-
-<h3 align="center">
-Backend Engineer • Java • Spring Boot • React
-</h3>
-
-<p align="center">
-Building scalable backend systems one REST API at a time.
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RajAditya11&theme=react-dark&hide_border=true"/>
 </p>
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RajAditya11&label=Profile%20views&color=0e75b6&style=flat" />
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajAditya11&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 </p>
 
-
-### 🌐 Connect with me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-
-
-### 🎯 Current Focus
-- Building strong fundamentals for FAANG interviews
-- Solving 600+ LeetCode problems with pattern problem recognition
-- Mastering System Design & OOP
-- Backend Engineer
-- Devops and Cloud Infrastructure
-- AI and automation
-  
-### 📊 Stats
-- LeetCode: 250+ problems
-- GitHub: Daily commits | 3+ deployed projects
-- Competitive Programming: 1-2 contests/week
-
-### 🛠 Tech Stack
-**Languages:** C++, Python, JavaScript, Java
-**Backend:** Node.js, Express, MongoDB, PostgreSQL
-**Frontend:** React, HTML/CSS , TailwindCSS
-**Tools:** Git, VS Code, Linux, Docker ,Claude Code
-
-### 🚀 Featured Projects
-1. Compiler - Online IDE using docker for unified environment to run code on any operating systm.
-2. Competitive Programming - Learning Algorithm using C++.
-
-### 📚 What I'm Learning
-- Backend Engineering
-- Advanced System Design
-- Cloud Infrastructure
-- Backend optimization & scaling
-- AI and automation
-- Mock interviewing
-
-
-{ LinkedIn : https://www.linkedin.com/in/raj-aditya-662aa3238/ }
-{ Leetcode : https://leetcode.com/u/rajadi7185/ }  
-{ rajadi7185@gmail.com , rajadi0611@gmail.com }
