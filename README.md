@@ -1,6 +1,12 @@
-# Hi, I'm Raj Aditya 👋
+<h1 align="center">Hi 👋, I'm Raj Aditya</h1>
 
-**Software Engineer | DSA Enthusiast | System Design Learner**
+<h3 align="center">
+Backend Engineer • Java • Spring Boot • React
+</h3>
+
+<p align="center">
+Building scalable backend systems one REST API at a time.
+</p>
 
 ### 🎯 Current Focus
 - Building strong fundamentals for FAANG interviews
