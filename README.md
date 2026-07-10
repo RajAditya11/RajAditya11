@@ -27,8 +27,6 @@ Status    : Open to Opportunities 🚀
 
 <h1>⚡ Connect with me </h1>
 
-<h1>⚡ Professional Profile</h1>
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/raj-aditya-662aa3238/">
